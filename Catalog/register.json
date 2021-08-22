@@ -58,5 +58,10 @@
         "org": "FRBNY-DSGE",
         "repo": "DSGE.jl",
         "branch": "main"
-    }
+    },
+    {
+        "org": "TaxFoundation",
+        "repo": "capital-cost-recovery",
+        "branch": "master"
+    }    
 ]
